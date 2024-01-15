@@ -1,0 +1,11 @@
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\bin\Debug\MonteCarlo_Mangetization.exe.config
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\bin\Debug\MonteCarlo_Mangetization.exe
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\bin\Debug\MonteCarlo_Mangetization.pdb
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.csproj.AssemblyReference.cache
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.Form1.resources
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.Properties.Resources.resources
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.csproj.GenerateResource.cache
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.csproj.CoreCompileInputs.cache
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.exe
+E:\CPS LAB\Finals\MonteCarlo_Mangetization\MonteCarlo_Mangetization\obj\Debug\MonteCarlo_Mangetization.pdb
